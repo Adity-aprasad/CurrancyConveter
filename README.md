@@ -71,7 +71,7 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 Contributions are welcome! Feel free to open an issue or submit a pull request to enhance the application.
 
 ## Contact
-For any inquiries or feedback, please reach out at your-adityarajprasad882@gmail.com or open an issue in the repository.
+For any inquiries or feedback, please reach out at adityarajprasad882@gmail.com or open an issue in the repository.
 
 ---
 
